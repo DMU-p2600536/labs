@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+  </head>
+  <body>
+    <h1>My Media clips</h1>
+    <p>These are my audio and video clips.</p>
+    <audio style="width: 100%;" controls autoplay muted>
+      <source src="/Users/megangoodman/Documents/audio week 4/542283__alyonka__music-sound.mp3" />
+      <source src="542283_alyonka_music-sound (online-audio-converter.com).ogg" />
+      <source src="542283_alyonka_music-sound (online-audio-converter.com).wav" />
+    </audio>
+    <video width="100%" controls>
+      <source src="/Users/megangoodman/Documents/video week 4/3d_ocean_1590675653.mov" />
+      <source src="/Users/megangoodman/Documents/video week 4/3d_ocean_1590675653.ogv" />
+      <source src="/Users/megangoodman/Documents/video week 4/3d_ocean_1590675653.webm" />
+      </video>
+  </body>
+</html>
