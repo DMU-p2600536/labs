@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, intial-scale=1" />
+    <title>CSS Playground</title>
+    <style>
+    p {
+      background-color: rgba(255, 0, 0, 0.2);
+      border: 20px black solid;
+      border-radius: 15px;
+      padding: 10px;
+      margin: 25px;
+  font-family: fantasy;
+    }
+  </style>
+  </head>
+  <body>
+    <article>
+      <header>
+        <h1>All About Me</h1>
+      </header>
+      <section>
+        <h1>Introduction</h1>
+        <p>
+          My name is Megan Louise Goodman. I am 18 years old and
+          come from a small village just 40 minutes outside of
+          Leicester called Twycross. I now currently am studying a
+          Media production course at De Monfort University.
+        </p>
+      </section>
+      <section>
+        <h1>Hobbies</h1>
+        <p>
+          My hobbies include dancing in which i studied for as a GCSE but then
+          decided to follow my love of media production to university. I am
+          aslo a fan of boxing and have attended several events myself. My true
+          passion though is Media Production and has been since i started media
+          studies in year 7.
+        </p>
+
+        <img src="image/waterfall me.jpeg" />
+        <section>
+          <h1>Travels</h1>
+          <p>
+            I love travelling and hope to travel more after COVID has passed but
+            one of my favourite places i have visited has to be Iceland.I loved
+            visiting the geo thermal plants and the blue lagoon.
+          </p>
+        </section>
+<video controls="true">
+  <source src="180607_A_124.mp4" type='video/mp4' />
+<source src="180607_A_124.ogv" type='video/ogv' />
+<source src="180607_A_124.webm" type='video/webm' />
+  
+</video>
+
+    </article>
+  </body>
+</html>
